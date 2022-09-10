@@ -1146,7 +1146,7 @@ const IndexPage = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createEl
     marginBottom: `var(--space-3)`
   },
   __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/599222693.json */ "./.cache/caches/gatsby-plugin-image/599222693.json")
-}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1", null, "Welcome to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b", null, "Gatsby!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1", null, "Welcome to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b", null, "Gatsby!"), " you son of a gun!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
   className: _components_index_module_css__WEBPACK_IMPORTED_MODULE_4__.intro
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b", null, "Example pages:"), " ", samplePageLinks.map((link, i) => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
   key: link.url
