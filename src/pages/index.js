@@ -2,7 +2,6 @@ import * as React from "react";
 import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import Rive from "@rive-app/react-canvas";
-import Logo from "src/new_file-3.riv";
 import styled from "styled-components";
 
 import Layout from "../components/layout";
